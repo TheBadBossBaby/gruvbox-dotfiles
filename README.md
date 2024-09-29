@@ -41,3 +41,4 @@ sudo pacman -S flatpak vlc signal-desktop telegram-desktop spotify-launcher gpar
 
 sudo systemctl enable bluetooth
 
+# for my zsh: ZSH_THEME="half-life"
