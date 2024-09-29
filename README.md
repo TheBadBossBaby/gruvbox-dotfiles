@@ -38,5 +38,6 @@ sudo mv Gruvbox-GTK-Theme /usr/share/themes/
 # optional stuff
 
 sudo pacman -S flatpak vlc signal-desktop telegram-desktop spotify-launcher gparted firefox libreoffice-fresh ufw thunderbird
+
 sudo systemctl enable bluetooth
 
